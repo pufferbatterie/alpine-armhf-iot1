@@ -1,4 +1,4 @@
-IMAGE_NAME="rpi-alpine-java8"
+IMAGE_NAME="pufferbatterie/alpine-rtmhf-iot1"
 
 
 all:
