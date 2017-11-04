@@ -1,4 +1,4 @@
-FROM pufferbatterie/armhf-alpine
+FROM pufferbatterie/alpine-armhf
 
 # Install Java runtime environment
 RUN apk update && \

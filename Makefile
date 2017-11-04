@@ -1,4 +1,4 @@
-IMAGE_NAME="pufferbatterie/alpine-rtmhf-iot1"
+IMAGE_NAME="pufferbatterie/alpine-armhf-iot1"
 
 
 all:
